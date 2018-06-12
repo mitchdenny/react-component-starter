@@ -1,0 +1,41 @@
+.badge
+{
+    width: 150px;
+    height: 230px;
+    background-color: blue;
+    border-radius: 10px;
+    overflow: hidden;
+    clip: auto;
+    box-shadow: gray 0.1em 0.1em 1em;
+
+}
+
+.badgePicture
+{
+}
+
+.badgeTop {
+    background-color: rgb(0, 112, 192);
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.badgeBottom {
+    background-color: white;
+    height: 100px;
+}
+
+.badgeName
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+.badgeLogo
+{
+    margin-left: -5px;
+    margin-top: 15px;
+}

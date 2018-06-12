@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "react-component-starter"
+        },
+        "hostingPlanName": {
+            "value": "frontcon2018"
+        },
+        "hostingEnvironment": {
+            "value": ""
+        },
+        "location": {
+            "value": "Central US"
+        },
+        "serverFarmResourceGroup": {
+            "value": "frontcon2018"
+        },
+        "subscriptionId": {
+            "value": "c97eb3cb-b4cb-44c9-af55-6051eccd460c"
+        }
+    }
+}
